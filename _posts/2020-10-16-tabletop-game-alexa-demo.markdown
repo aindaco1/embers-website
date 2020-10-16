@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tabletop Game Alexa Demo"
+title:  "Tabletop Game Alexa Playtest"
 date:   2020-10-16 00:12:29 +0200
 categories: tabletop alexa
 comments: false
