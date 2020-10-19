@@ -17,6 +17,7 @@ You've been invited to help us playtest some games! Please fill out the survey b
     <option value="know">Know!</option>
     <option value="betrayal">Betrayal at the House on the Hill</option>
     <option value="danger">House of Danger, Ch. 1</option>
+    <option value="clue">Clue</option>
     <option value="songquiz">Song Quiz</option>
     <option value="cyoa">Choose Your Own Adventure on Alexa</option>    
   </select>
