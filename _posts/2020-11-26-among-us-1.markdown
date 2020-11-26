@@ -49,10 +49,10 @@ We're building a real-time assistant for Among Us! Please fill out the survey so
       <label for="vehicle3"> How bright is the crew light?</label><br>
       <input type="checkbox" id="kill-cooldown" name="kill-cooldown" value="kill-cooldown">
       <label for="vehicle1"> How long is the kill cooldown for the current game?</label>
-      </div>
-    <div class="column">
       <input type="checkbox" id="kill-distance" name="kill-distance" value="kill-distance">
       <label for="vehicle2"> How far is the kill distance for the current game?</label><br>
+      </div>
+    <div class="column">
       <input type="checkbox" id="common-tasks" name="common-tasks" value="common-tasks">
       <label for="vehicle3"> How many common tasks does each player have for the current game?</label><br>
       <input type="checkbox" id="long-tasks" name="long-tasks" value="long-tasks">
