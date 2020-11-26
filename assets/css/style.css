@@ -4,6 +4,18 @@ body	{
 	font-family: 'Cutive Mono', serif;
 	font-size:100%;
 	line-height:150%;
+	box-sizing: border-box;
+}
+
+.column {
+float: left;
+width: 50%;
+}
+
+.row:after {
+content: "";
+display: table;
+clear: both;
 }
 
 a:link, a:visited	{
@@ -14,7 +26,6 @@ a:link, a:visited	{
 a:hover	{
 	text-decoration: underline;
 }
-
 
 #main {
 	width: 50%;
