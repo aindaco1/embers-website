@@ -22,63 +22,63 @@ We're building a real-time assistant for Among Us! Please fill out the survey so
   <div class="row">
     <div class="column">
       <input type="checkbox" id="crewmate-session" name="crewmate-session" value="crewmate-session">
-      <label for="vehicle3"> How many times have I been a crewmate this session?</label><br>
+      <label for="vehicle3"> How many times you have been a crewmate this session</label><br>
       <input type="checkbox" id="impostor-session" name="impostor-session" value="impostor-session">
-      <label for="vehicle3"> How many times have I been an impostor this session?</label><br>
+      <label for="vehicle3"> How many times you have been an impostor this session</label><br>
       <input type="checkbox" id="crewmate-lifetime" name="crewmate-lifetime" value="crewmate-lifetime">
-      <label for="vehicle3"> How many times/percentage have I been a crewmate lifetime?</label><br>
+      <label for="vehicle3"> How many times/percentage you have been a crewmate lifetime</label><br>
       <input type="checkbox" id="impostor-lifetime" name="impostor-lifetime" value="impostor-lifetime">
-      <label for="vehicle3"> How many times/percentage have I been an impostor lifetime?</label><br>
+      <label for="vehicle3"> How many times/percentage you have been an impostor lifetime</label><br>
       <input type="checkbox" id="impostor-current" name="impostor-current" value="impostor-current">
-      <label for="vehicle3"> How many impostors are there in the current game?</label><br>
+      <label for="vehicle3"> How many impostors there are in the current game</label><br>
       <input type="checkbox" id="other-impostors" name="other-impostors" value="other-impostors">
-      <label for="vehicle3"> If you're an impostor, who are the other impostors in the current game?</label><br>
+      <label for="vehicle3"> If you're an impostor, who the other impostors are in the current game</label><br>
       <input type="checkbox" id="win-loss-lifetime" name="win-loss-lifetime" value="win-loss-lifetime">
-      <label for="vehicle3"> What is your win-loss record lifetime?</label><br>
+      <label for="vehicle3"> Your win-loss record lifetime</label><br>
       <input type="checkbox" id="win-loss-session" name="win-loss-session" value="win-loss-session">
-      <label for="vehicle3"> What is your win-loss record this session?</label><br>
+      <label for="vehicle3"> Your win-loss record this session</label><br>
       <input type="checkbox" id="win-loss-streak" name="win-loss-streak" value="win-loss-streak">
-      <label for="vehicle3"> What is your current win/losing streak?</label><br>
+      <label for="vehicle3"> Your current win/losing streak</label><br>
       <input type="checkbox" id="emergency" name="emergency" value="emergency">
-      <label for="vehicle3"> How many emergency meetings do you have left?</label><br>
+      <label for="vehicle3"> How many emergency meetings you have left</label><br>
       <input type="checkbox" id="voting-long" name="voting-long" value="voting-long">
-      <label for="vehicle3"> How long is the voting time?</label><br>
+      <label for="vehicle3"> How long the voting time is</label><br>
       <input type="checkbox" id="speed" name="speed" value="speed">
-      <label for="vehicle3"> How fast is the player speed?</label><br>
+      <label for="vehicle3"> How fast the player speed is</label><br>
       <input type="checkbox" id="bright" name="bright" value="bright">
-      <label for="vehicle3"> How bright is the crew light?</label><br>
+      <label for="vehicle3"> How bright the crew light is</label><br>
       <input type="checkbox" id="kill-cooldown" name="kill-cooldown" value="kill-cooldown">
-      <label for="vehicle1"> How long is the kill cooldown for the current game?</label><br>
+      <label for="vehicle1"> How long the kill cooldown is for the current game</label><br>
       <input type="checkbox" id="kill-distance" name="kill-distance" value="kill-distance">
-      <label for="vehicle2"> How far is the kill distance for the current game?</label>
+      <label for="vehicle2"> How far the kill distance is for the current game</label>
       </div>
     <div class="column">
       <input type="checkbox" id="common-tasks" name="common-tasks" value="common-tasks">
-      <label for="vehicle3"> How many common tasks does each player have for the current game?</label><br>
+      <label for="vehicle3"> How many common tasks each player has for the current game</label><br>
       <input type="checkbox" id="long-tasks" name="long-tasks" value="long-tasks">
-      <label for="vehicle3"> How many long tasks tasks does each player have for the current game?</label><br>
+      <label for="vehicle3"> How many long tasks each player has for the current game</label><br>
       <input type="checkbox" id="short-tasks" name="short-tasks" value="short-tasks">
-      <label for="vehicle3"> How many short tasks tasks does each player have for the current game?</label><br>
+      <label for="vehicle3"> How many short tasks each player has for the current game</label><br>
       <input type="checkbox" id="your-tasks" name="your-tasks" value="your-tasks">
-      <label for="vehicle3"> How many of your tasks are left to complete for the current game?</label><br>
+      <label for="vehicle3"> How many of your tasks are left for the current game</label><br>
       <input type="checkbox" id="name-your-tasks" name="name-your-tasks" value="name-your-tasks">
-      <label for="vehicle3"> Which of your tasks are left for the current game?</label><br>
+      <label for="vehicle3"> Which of your tasks are left for the current game</label><br>
       <input type="checkbox" id="where-your-tasks" name="where-your-tasks" value="where-your-tasks">
-      <label for="vehicle3"> Where are your remaining tasks for the current game?</label><br>
+      <label for="vehicle3"> Where your remaining tasks are for the current game</label><br>
       <input type="checkbox" id="percentage-all-tasks" name="percentage-all-tasks" value="percentage-all-tasks">
-      <label for="vehicle3"> What percentage of all crew tasks are complete?</label><br>
+      <label for="vehicle3"> The percentage of all crew tasks completed</label><br>
       <input type="checkbox" id="percentage-your-tasks" name="percentage-your-tasks" value="percentage-your-tasks">
-      <label for="vehicle3"> What percentage of your tasks are complete?</label><br>
+      <label for="vehicle3"> The percentage of your tasks completed</label><br>
       <input type="checkbox" id="crew-etc" name="crew-etc" value="crew-etc">
-      <label for="vehicle3"> For crew tasks, what is the estimated time of completion?</label><br>
+      <label for="vehicle3"> For crew tasks, the estimated time of completion</label><br>
       <input type="checkbox" id="your-etc" name="your-etc" value="your-etc">
-      <label for="vehicle3"> For your tasks, what is the estimated time of completion?</label><br>
+      <label for="vehicle3"> For your tasks, the estimated time of completion</label><br>
       <input type="checkbox" id="fake-tasks" name="fake-tasks" value="fake-tasks">
-      <label for="vehicle3"> If you're an impostor, where are your fake tasks?</label><br>
+      <label for="vehicle3"> If you're an impostor, where your fake tasks are</label><br>
       <input type="checkbox" id="sus" name="sus" value="sus">
-      <label for="vehicle3"> Add/take away sus on a player. Who is sus?</label><br>
+      <label for="vehicle3"> Ability to add/take away sus on a player, then retrieve info later</label><br>
       <input type="checkbox" id="instructions" name="instructions" value="instructions">
-      <label for="vehicle3"> Instructions to complete a specific task, e.g. How do you do the canister task?</label>
+      <label for="vehicle3"> Instructions to complete a specific task -- e.g. how you do the canister task</label>
     </div>
   </div>
   <p></p>
